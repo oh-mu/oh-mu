@@ -1,2 +1,2 @@
-# all my repos in https://hg.sr.ht/~ohmu/
-# my website: https://ohmu.4plt.ch/
+# all my repos in http://git.ohmu.pw
+# my website: http://ohmu.pw
